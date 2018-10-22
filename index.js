@@ -1,4 +1,1 @@
-function shout (string) 
-{
-}
-}
+
